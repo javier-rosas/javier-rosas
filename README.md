@@ -1,9 +1,7 @@
-- Hi, I’m @javier-rosas
-- I’m interested in web development, decentralization, and AI
-- I’m currently learning Next JS, Tailwind CSS and Cloud Architecture
-- I’m looking to collaborate on any project involving web dev or data analytics
-- How to reach me: https://twitter.com/Javier0Rosas
-- Look at my website: https://javier-rosas.netlify.app/
+Building cool web stuff 
+
+- How to reach me: [https://twitter.com/Javier0Rosas](https://x.com/Javier0Rosas)
+- Check out my projects: https://javier-rosas.netlify.app/
 
 <!---
 javier-rosas/javier-rosas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
